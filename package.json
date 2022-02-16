@@ -1,0 +1,12 @@
+{
+  "name": "mrul2005-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/roissard/mrul2005-test",
+  "bugs": "https://github.com/roissard/mrul2005-test/issues",
+  "repository": {
+    "url": "https://github.com/roissard/mrul2005-test",
+    "type": "git"
+  }
+}
